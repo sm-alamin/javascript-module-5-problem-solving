@@ -30,4 +30,8 @@ if(signal === 'red') {
 }else{
     console.log("Signal indicator is damaged. Open your eyes, if you do not see any traffic then cross the road otherwise wait sometime")
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> dcbc21c0e34e19f84e81637af224932a7dede035
 */
