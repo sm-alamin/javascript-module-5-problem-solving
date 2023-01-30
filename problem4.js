@@ -3,18 +3,18 @@
 // You must have to do it in 4 ways:
 
 //has parameter and return
-// function odd_even(number) {
-//     var check = number % 2;
-//     even = "The number is Even";
-//     odd = "The number is Odd";
-//     if(check === 0 ) {
-//         return even;
-//     }else{
-//         return odd;
-//     }
-// }
-// var checkOddEven = odd_even(90);
-// console.log(checkOddEven);
+function odd_even(number) {
+    var check = number % 2;
+    even = "The number is Even";
+    odd = "The number is Odd";
+    if(check === 0 ) {
+        return even;
+    }else{
+        return odd;
+    }
+}
+var checkOddEven = odd_even(90);
+console.log(checkOddEven);
 
 //has parameter and return
 function odd_even(number) {
